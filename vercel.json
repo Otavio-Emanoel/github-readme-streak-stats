@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "now-php@2.0.0"
+      "runtime": "now-php@0.2.0"
     }
   },
   "routes": [
